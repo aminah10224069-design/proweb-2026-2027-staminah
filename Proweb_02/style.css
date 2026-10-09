@@ -1,0 +1,15 @@
+:root {
+    --warna-bg: #e2e8f0;
+    --warna-teks: #1a202c;
+    --warna-judul: #2b6cb0;
+}
+
+body {
+    background-color: var(--warna-bg) !important;
+    color: var(--warna-teks);
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    color: var(--warna-judul) !important;
+}
